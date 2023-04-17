@@ -33,6 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairansari11&show_icons=true&locale=en&layout=compact" alt="uzairansari11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzairansari11&show_icons=true&locale=en" alt="uzairansari11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairansari11&" alt="uzairansari11" /></p>
