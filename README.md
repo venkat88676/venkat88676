@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I am funny**
 
+- <a href="https://golden-brigadeiros-75e48c.netlify.app/" target="blank">My Portfolio</a>
   
 
 <h3 align="left">Connect with me:</h3>
