@@ -1,3 +1,8 @@
+
+<!-- ![logo](https://wallpaperaccess.com/full/2641074.gif) -->
+
+<img align="center" alt="coding" src="https://wallpaperaccess.com/full/648651.gif">
+
 <!-- - 😇 Hi, I’m Venkatesh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
