@@ -3,26 +3,16 @@
 
 <img align="center" alt="coding" src="https://wallpaperaccess.com/full/648651.gif">
 
-<!-- - 😇 Hi, I’m Venkatesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-
---->
 <h1 align="center">Hi 😇, I'm Venkatesh Tiwari</h1>
 <h3 align="center">Aspiring Full Stack Web Developer </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat88676&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh" /> </p>
 
 - 🤖 I’m currently learning **Express,Node,MongoDB**
 
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 
 <!-- - 📫 How to reach me venkat886676@gmail.com -->
-
-- ⚡ Fun fact **I am funny**
 
 - <a href="https://golden-brigadeiros-75e48c.netlify.app/" target="blank">My Portfolio</a>
   
