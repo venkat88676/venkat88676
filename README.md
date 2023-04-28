@@ -1,5 +1,4 @@
 
-<!-- ![logo](https://wallpaperaccess.com/full/2641074.gif) -->
 
 <img align="center" alt="coding" src="https://wallpaperaccess.com/full/648651.gif">
 
@@ -14,7 +13,7 @@
 
 <!-- - 📫 How to reach me venkat886676@gmail.com -->
 
-- <a href="https://golden-brigadeiros-75e48c.netlify.app/" target="blank">My Portfolio</a>
+- <a href="" target="blank">My Portfolio</a>
   
 
 <h3 align="left">Connect with me:</h3>
