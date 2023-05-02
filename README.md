@@ -11,7 +11,7 @@
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 - 📫 How to reach me venkat886676@gmail.com 
 
-- Click Here for<a href="https://venkat88676.github.io/"> My Portfolio </a>
+- My Portfolio<a href="https://venkat88676.github.io/"> https://venkat88676.github.io/ </a>
   
 
 <h3 align="left">Connect with me:</h3>
