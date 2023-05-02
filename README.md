@@ -11,9 +11,7 @@
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 - 📫 How to reach me venkat886676@gmail.com 
 
-- <a href="https://venkat88676.github.io/"  target="_blank">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
-    </a>
+- Click Here for<a href="https://venkat88676.github.io/"> My Portfolio </a>
   
 
 <h3 align="left">Connect with me:</h3>
