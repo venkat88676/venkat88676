@@ -10,10 +10,11 @@
 - 🤖 I’m currently learning **Express,Node,MongoDB**
 
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
+- 📫 How to reach me venkat886676@gmail.com 
 
-<!-- - 📫 How to reach me venkat886676@gmail.com -->
-
-- <a href="" target="blank">My Portfolio</a>
+- <a href="https://venkat88676.github.io/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+    </a>
   
 
 <h3 align="left">Connect with me:</h3>
