@@ -8,11 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat88676&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh" /> </p>
 
 - 🤖 I’m currently learning **Express,Node,MongoDB**
-
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 - 📫 How to reach me venkat886676@gmail.com 
 
-- <a href="https://venkat88676.github.io/" target="_blank">
+- <a href="https://venkat88676.github.io/"  target="_blank">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
   
