@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat88676&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh" /> </p>
 
-- 🤖 I’m currently learning **Express,Node,MongoDB**
+- 🤖 I’m currently learning **Express,Node,MongoDB,MySQL**
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 - 📫 How to reach me venkat886676@gmail.com 
 
