@@ -11,8 +11,8 @@
 - 💬 Ask me about **JavaScript,CSS,HTML,DSA**
 - 📫 How to reach me venkat886676@gmail.com 
 
-- My Portfolio<a href="https://venkat88676.github.io/"> https://venkat88676.github.io/ </a>
-- LinkedIn Profile<a href="https://www.linkedin.com/in/venkatesh-tiwari-80b361248/"> https://venkat88676.github.io/ </a>
+- My Portfolio<a href="https://venkat88676.github.io/"> Click Here </a>
+- LinkedIn Profile<a href="https://www.linkedin.com/in/venkatesh-tiwari-80b361248/"> Click Here</a>
   
 
 <h3 align="left">Connect with me:</h3>
